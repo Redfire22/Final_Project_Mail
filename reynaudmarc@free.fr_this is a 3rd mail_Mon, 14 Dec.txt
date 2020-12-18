@@ -1,0 +1,8 @@
+Email Save : reynaudmarc@free.fr_this is a 3rd mail_Mon, 14 Dec 2020 18:04:28.txt
+
+FROM    : reynaudmarc@free.fr
+TO      : aaabbbnetwork@gmail.com
+DATE    : Mon, 14 Dec 2020 18:04:28
+SUBJECT : this is a 3rd mail
+BODY : 
+A 3rd mail, not that interesting, huh 
